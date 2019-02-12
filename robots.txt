@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cungashe.responsivewriting.com/sitemap.xml
